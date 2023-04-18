@@ -14,6 +14,7 @@
 		145D156829ED4F11002D5F38 /* MagnificationGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145D156729ED4F11002D5F38 /* MagnificationGesture.swift */; };
 		145D156C29EE2D70002D5F38 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145D156B29EE2D70002D5F38 /* DragGestureBootcamp.swift */; };
 		145D156E29EE4173002D5F38 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145D156D29EE4173002D5F38 /* DragGestureBootcamp2.swift */; };
+		145D157029EE4443002D5F38 /* ScrollViewRenderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145D156F29EE4443002D5F38 /* ScrollViewRenderBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		145D156729ED4F11002D5F38 /* MagnificationGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGesture.swift; sourceTree = "<group>"; };
 		145D156B29EE2D70002D5F38 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		145D156D29EE4173002D5F38 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
+		145D156F29EE4443002D5F38 /* ScrollViewRenderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewRenderBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				145D156729ED4F11002D5F38 /* MagnificationGesture.swift */,
 				145D156B29EE2D70002D5F38 /* DragGestureBootcamp.swift */,
 				145D156D29EE4173002D5F38 /* DragGestureBootcamp2.swift */,
+				145D156F29EE4443002D5F38 /* ScrollViewRenderBootcamp.swift */,
 				145D155D29ED4BA1002D5F38 /* Assets.xcassets */,
 				145D155F29ED4BA1002D5F38 /* Preview Content */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				145D155C29ED4BA0002D5F38 /* ContentView.swift in Sources */,
 				145D155A29ED4BA0002D5F38 /* SwiftuiTutorialsApp.swift in Sources */,
+				145D157029EE4443002D5F38 /* ScrollViewRenderBootcamp.swift in Sources */,
 				145D156E29EE4173002D5F38 /* DragGestureBootcamp2.swift in Sources */,
 				145D156C29EE2D70002D5F38 /* DragGestureBootcamp.swift in Sources */,
 				145D156829ED4F11002D5F38 /* MagnificationGesture.swift in Sources */,
