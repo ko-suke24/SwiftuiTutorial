@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		14523FFD29F2178F00CCE9D3 /* BackgroundThreadViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14523FFC29F2178F00CCE9D3 /* BackgroundThreadViewModel.swift */; };
+		14523FFF29F28D6000CCE9D3 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14523FFE29F28D6000CCE9D3 /* WeakSelfBootcamp.swift */; };
 		145D155A29ED4BA0002D5F38 /* SwiftuiTutorialsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145D155929ED4BA0002D5F38 /* SwiftuiTutorialsApp.swift */; };
 		145D155C29ED4BA0002D5F38 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145D155B29ED4BA0002D5F38 /* ContentView.swift */; };
 		145D155E29ED4BA1002D5F38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 145D155D29ED4BA1002D5F38 /* Assets.xcassets */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		14523FFC29F2178F00CCE9D3 /* BackgroundThreadViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadViewModel.swift; sourceTree = "<group>"; };
+		14523FFE29F28D6000CCE9D3 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		145D155629ED4BA0002D5F38 /* SwiftuiTutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftuiTutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		145D155929ED4BA0002D5F38 /* SwiftuiTutorialsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftuiTutorialsApp.swift; sourceTree = "<group>"; };
 		145D155B29ED4BA0002D5F38 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -68,6 +72,8 @@
 				145D156D29EE4173002D5F38 /* DragGestureBootcamp2.swift */,
 				145D156F29EE4443002D5F38 /* ScrollViewRenderBootcamp.swift */,
 				145D157129EF4EBC002D5F38 /* LocalNotificationBootcamp.swift */,
+				14523FFC29F2178F00CCE9D3 /* BackgroundThreadViewModel.swift */,
+				14523FFE29F28D6000CCE9D3 /* WeakSelfBootcamp.swift */,
 				145D155D29ED4BA1002D5F38 /* Assets.xcassets */,
 				145D155F29ED4BA1002D5F38 /* Preview Content */,
 			);
@@ -152,12 +158,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14523FFF29F28D6000CCE9D3 /* WeakSelfBootcamp.swift in Sources */,
 				145D155C29ED4BA0002D5F38 /* ContentView.swift in Sources */,
 				145D155A29ED4BA0002D5F38 /* SwiftuiTutorialsApp.swift in Sources */,
 				145D157029EE4443002D5F38 /* ScrollViewRenderBootcamp.swift in Sources */,
 				145D156E29EE4173002D5F38 /* DragGestureBootcamp2.swift in Sources */,
 				145D156C29EE2D70002D5F38 /* DragGestureBootcamp.swift in Sources */,
 				145D157229EF4EBC002D5F38 /* LocalNotificationBootcamp.swift in Sources */,
+				14523FFD29F2178F00CCE9D3 /* BackgroundThreadViewModel.swift in Sources */,
 				145D156829ED4F11002D5F38 /* MagnificationGesture.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
