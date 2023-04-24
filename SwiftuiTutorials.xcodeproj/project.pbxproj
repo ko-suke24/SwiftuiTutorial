@@ -18,6 +18,7 @@
 		145D156E29EE4173002D5F38 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145D156D29EE4173002D5F38 /* DragGestureBootcamp2.swift */; };
 		145D157029EE4443002D5F38 /* ScrollViewRenderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145D156F29EE4443002D5F38 /* ScrollViewRenderBootcamp.swift */; };
 		145D157229EF4EBC002D5F38 /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145D157129EF4EBC002D5F38 /* LocalNotificationBootcamp.swift */; };
+		1463079629F66B1F00A2957C /* CodableBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1463079529F66B1F00A2957C /* CodableBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		145D156D29EE4173002D5F38 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		145D156F29EE4443002D5F38 /* ScrollViewRenderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewRenderBootcamp.swift; sourceTree = "<group>"; };
 		145D157129EF4EBC002D5F38 /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
+		1463079529F66B1F00A2957C /* CodableBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				145D157129EF4EBC002D5F38 /* LocalNotificationBootcamp.swift */,
 				14523FFC29F2178F00CCE9D3 /* BackgroundThreadViewModel.swift */,
 				14523FFE29F28D6000CCE9D3 /* WeakSelfBootcamp.swift */,
+				1463079529F66B1F00A2957C /* CodableBootCamp.swift */,
 				145D155D29ED4BA1002D5F38 /* Assets.xcassets */,
 				145D155F29ED4BA1002D5F38 /* Preview Content */,
 			);
@@ -167,6 +170,7 @@
 				145D157229EF4EBC002D5F38 /* LocalNotificationBootcamp.swift in Sources */,
 				14523FFD29F2178F00CCE9D3 /* BackgroundThreadViewModel.swift in Sources */,
 				145D156829ED4F11002D5F38 /* MagnificationGesture.swift in Sources */,
+				1463079629F66B1F00A2957C /* CodableBootCamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -71,7 +71,7 @@ class WeakSelfSecondScreenViewModel: ObservableObject {
     func getData() {
 
 //        バックグラウンド処理に500秒かかるコード。 500秒経過するまでこのコードは生き続けるためweak selfを記述。
-        
+
         DispatchQueue.main.asyncAfter(deadline: .now() + 500) { [weak self] in
             self?.data = "NEW DATA!!!!"
         }
